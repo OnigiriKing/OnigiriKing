@@ -6,6 +6,7 @@ My name is Nikita Zamyshliaev, or just Nick.
 </h3>
 
 I am a Front-End React Developer based in Bangkok, Thailand. 🇹🇭
+Thailand's gold medalist in the ITPEC FE computer science exam 🏅
 <br></br>
 
 <h3>
