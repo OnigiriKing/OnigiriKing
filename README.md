@@ -19,10 +19,8 @@ My Skills:
 <h3>
 Social:
 </h3>
-<a href="https://www.linkedin.com/in/onigiriking/">
-  
+
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/onigiriking/)
   
-</a>
 
 
