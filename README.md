@@ -1,14 +1,27 @@
 <h3>
+こんにちは 👋
+</h3>
+<h3>
+私の名前はニキータ・ザミシュリャーエフと申します。ニキータとお呼びください。
+</h3>
+
+東京を拠点にフロントエンドReact開発に従事しております。🇯🇵  
+<br />
+ITPEC FE（基本情報技術者試験）において、タイにて金メダルを獲得いたしました。🏅
+<br></br>
+
+<h3>
 Hi there 👋
 </h3>
 <h3>
 My name is Nikita Zamyshliaev, or just Nick.
 </h3>
 
-I am a Front-End React Developer based in Bangkok, Thailand. 🇹🇭
+I am a Front-End React Developer based in Tokyo, Japan. 🇯🇵
 <br></br>
 Thailand's gold medalist in the ITPEC FE computer science exam 🏅
-<br></br>
+
+
 
 <h3>
 My Skills:
