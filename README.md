@@ -14,7 +14,7 @@ ITPEC FE（基本情報技術者試験）において、タイにて金メダル
 Hi there 👋
 </h3>
 <h3>
-My name is Nikita Zamyshliaev, or just Nick.
+My name is Nikita Zamyshliaev.
 </h3>
 
 I am a Front-End React Developer based in Tokyo, Japan. 🇯🇵
