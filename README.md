@@ -34,6 +34,11 @@ Social:
 </h3>
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/onigiriking/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:oooNikita87@gmail.com)
-  
+
+  <h3>
+Stats:
+</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=onigiriking&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 
