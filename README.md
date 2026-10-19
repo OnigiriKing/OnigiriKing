@@ -8,6 +8,8 @@ I'm a React developer based in Tokyo, Japan. 🇯🇵
 
 🏅 **ITPEC FE Certificate of Excellence** (Thailand, 2023).
 
+[Portfolio](https://onigiri-king.netlify.app)
+
 ### My stack
 
 [![My stack](https://skillicons.dev/icons?i=react,js,ts,nodejs,nextjs,redux,html,css,scss,tailwind,figma&perline=6)](https://skillicons.dev)
@@ -20,8 +22,6 @@ I'm a React developer based in Tokyo, Japan. 🇯🇵
 ⚡ **[Onigiri Crypto](https://onigiri-crypto.netlify.app)**: A crypto dashboard using the Bitfinex API.  
 
 ### Find me
-
-🌐 **[My portfolio](https://onigiri-king.netlify.app)**
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/onigiriking/) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:oooNikita87@gmail.com)
 
