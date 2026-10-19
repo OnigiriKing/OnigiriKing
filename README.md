@@ -1,27 +1,34 @@
-# Nikita Zamyshliaev
+## こんにちは、ニキータです 👋 🍙
 
-**React developer based in Tokyo, Japan**
+東京を拠点に、ReactでWebアプリを作っています。🇯🇵
 
-東京在住。React・JavaScript・Reduxによる社内業務システム開発の実務経験が約1年あります。個人開発では、TypeScript・Node.js・PostgreSQLを用いたWebアプリケーションに取り組んでいます。
+### Hi, I'm Nikita!
 
-I have around one year of professional frontend experience building internal business tools with React, JavaScript, Redux and REST APIs. My personal projects extend that foundation into TypeScript, Node.js and PostgreSQL. I also bring experience in fintech KYC and compliance, and collaboration with international teams.
+A React developer based in Tokyo, Japan. I enjoy building useful interfaces and multilingual web experiences.
 
-[Portfolio](https://onigiri-king.netlify.app) · [LinkedIn](https://www.linkedin.com/in/onigiriking/) · [Email](mailto:oooNikita87@gmail.com)
+🏅 **ITPEC FE Certificate of Excellence** — Thailand, 2023.
 
-## Selected projects
+### My stack
 
-| Project | What it demonstrates | Links |
-| --- | --- | --- |
-| **I Wish You Could Read This** | Full-stack personal project: multilingual message map with React, TypeScript, a Node.js serverless API and PostgreSQL. | [Code](https://github.com/OnigiriKing/i-wish-you-can-see-this) · [Demo](https://i-wish-you-could-read-it.netlify.app) |
-| **Kumo Market** | E-commerce frontend prototype with product browsing, Redux cart state and English/Japanese content. | [Code](https://github.com/OnigiriKing/kumo-market) · [Demo](https://kumo-market.netlify.app) |
-| **Moto Vibe** | Motorbike rental frontend prototype with responsive layouts and a reservation interface. | [Code](https://github.com/OnigiriKing/moto-vibe) · [Demo](https://moto-vibe.netlify.app) |
+[![My stack](https://skillicons.dev/icons?i=react,js,ts,nodejs,nextjs,redux,html,css,scss,tailwind,figma&perline=6)](https://skillicons.dev)
 
-## Technical background
+### A few things I've built
 
-- **Professional frontend experience:** React, JavaScript, Redux, REST APIs, SCSS and Git.
-- **Personal project experience:** TypeScript, Node.js, PostgreSQL, Tailwind CSS, Vite and internationalization.
+- 🗺️ **[I Wish You Could Read This](https://github.com/OnigiriKing/i-wish-you-can-see-this)** — A multilingual map for unsent messages. [Try it](https://i-wish-you-could-read-it.netlify.app)
+- ☁️ **[Kumo Market](https://github.com/OnigiriKing/kumo-market)** — An online shopping interface with a Redux cart. [Try it](https://kumo-market.netlify.app)
+- 🛵 **[Moto Vibe](https://github.com/OnigiriKing/moto-vibe)** — A motorbike rental website inspired by Bangkok. [Try it](https://moto-vibe.netlify.app)
+- ⚡ **[Onigiri Crypto](https://github.com/OnigiriKing/OnigiriCrypto)** — A crypto dashboard using the Bitfinex API. [Try it](https://onigiri-crypto.netlify.app)
 
-## Languages and qualifications
+### Find me
 
-- Japanese: **JLPT N2** · English: **business level** · Chinese: **HSK 5** · Russian: **native**
-- **ITPEC FE Certificate of Excellence** — Thailand, 2023.
+🌐 **[My portfolio](https://onigiri-king.netlify.app)**
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/onigiriking/) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:oooNikita87@gmail.com)
+
+<details>
+<summary>📊 GitHub activity</summary>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=onigiriking&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+</details>
