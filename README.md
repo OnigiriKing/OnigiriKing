@@ -6,7 +6,7 @@
 
 I'm a React developer based in Tokyo, Japan. 🇯🇵
 
-🏅 **ITPEC FE Certificate of Excellence** — Thailand, 2023.
+🏅 **ITPEC FE Certificate of Excellence** (Thailand, 2023).
 
 ### My stack
 
@@ -14,10 +14,10 @@ I'm a React developer based in Tokyo, Japan. 🇯🇵
 
 ### A few things I've built
 
-- 🗺️ **[I Wish You Could Read This](https://github.com/OnigiriKing/i-wish-you-can-see-this)** — A multilingual map for unsent messages. [Try it](https://i-wish-you-could-read-it.netlify.app)
-- ☁️ **[Kumo Market](https://github.com/OnigiriKing/kumo-market)** — An online shopping interface with a Redux cart. [Try it](https://kumo-market.netlify.app)
-- 🛵 **[Moto Vibe](https://github.com/OnigiriKing/moto-vibe)** — A motorbike rental website inspired by Bangkok. [Try it](https://moto-vibe.netlify.app)
-- ⚡ **[Onigiri Crypto](https://github.com/OnigiriKing/OnigiriCrypto)** — A crypto dashboard using the Bitfinex API. [Try it](https://onigiri-crypto.netlify.app)
+- 🗺️ **[I Wish You Could Read This](https://github.com/OnigiriKing/i-wish-you-can-see-this)**: A multilingual map for unsent messages. [Try it](https://i-wish-you-could-read-it.netlify.app)
+- ☁️ **[Kumo Market](https://github.com/OnigiriKing/kumo-market)**: An online shopping interface with a Redux cart. [Try it](https://kumo-market.netlify.app)
+- 🛵 **[Moto Vibe](https://github.com/OnigiriKing/moto-vibe)**: A motorbike rental website inspired by Bangkok. [Try it](https://moto-vibe.netlify.app)
+- ⚡ **[Onigiri Crypto](https://github.com/OnigiriKing/OnigiriCrypto)**: A crypto dashboard using the Bitfinex API. [Try it](https://onigiri-crypto.netlify.app)
 
 ### Find me
 
