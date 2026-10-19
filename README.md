@@ -1,44 +1,27 @@
-<h3>
-こんにちは 👋
-</h3>
-<h3>
-私の名前はニキータ・ザミシュリャーエフと申します。ニキータとお呼びください。
-</h3>
+# Nikita Zamyshliaev
 
-東京を拠点にフロントエンドReact開発に従事しております。🇯🇵  
-<br />
-ITPEC FE（基本情報技術者試験）において、タイにて金メダルを獲得いたしました。🏅
-<br></br>
+**React developer based in Tokyo, Japan**
 
-<h3>
-Hi there 👋
-</h3>
-<h3>
-My name is Nikita Zamyshliaev.
-</h3>
+東京在住。React・JavaScript・Reduxによる社内業務システム開発の実務経験が約1年あります。個人開発では、TypeScript・Node.js・PostgreSQLを用いたWebアプリケーションに取り組んでいます。
 
-I am a Front-End React Developer based in Tokyo, Japan. 🇯🇵
-<br></br>
-Thailand's gold medalist in the ITPEC FE computer science exam 🏅
+I have around one year of professional frontend experience building internal business tools with React, JavaScript, Redux and REST APIs. My personal projects extend that foundation into TypeScript, Node.js and PostgreSQL. I also bring experience in fintech KYC and compliance, and collaboration with international teams.
 
+[Portfolio](https://onigiri-king.netlify.app) · [LinkedIn](https://www.linkedin.com/in/onigiriking/) · [Email](mailto:oooNikita87@gmail.com)
 
+## Selected projects
 
-<h3>
-My Skills:
-</h3>
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| **I Wish You Could Read This** | Full-stack personal project: multilingual message map with React, TypeScript, a Node.js serverless API and PostgreSQL. | [Code](https://github.com/OnigiriKing/i-wish-you-can-see-this) · [Demo](https://i-wish-you-could-read-it.netlify.app) |
+| **Kumo Market** | E-commerce frontend prototype with product browsing, Redux cart state and English/Japanese content. | [Code](https://github.com/OnigiriKing/kumo-market) · [Demo](https://kumo-market.netlify.app) |
+| **Moto Vibe** | Motorbike rental frontend prototype with responsive layouts and a reservation interface. | [Code](https://github.com/OnigiriKing/moto-vibe) · [Demo](https://moto-vibe.netlify.app) |
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nextjs,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=scss,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+## Technical background
 
-<h3>
-Social:
-</h3>
+- **Professional frontend experience:** React, JavaScript, Redux, REST APIs, SCSS and Git.
+- **Personal project experience:** TypeScript, Node.js, PostgreSQL, Tailwind CSS, Vite and internationalization.
 
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/onigiriking/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:oooNikita87@gmail.com)
+## Languages and qualifications
 
-  <h3>
-Stats:
-</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=onigiriking&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
-
+- Japanese: **JLPT N2** · English: **business level** · Chinese: **HSK 5** · Russian: **native**
+- **ITPEC FE Certificate of Excellence** — Thailand, 2023.
