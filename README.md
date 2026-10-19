@@ -25,10 +25,7 @@ I'm a React developer based in Tokyo, Japan. 🇯🇵
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/onigiriking/) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:oooNikita87@gmail.com)
 
-<details>
-<summary>📊 GitHub activity</summary>
-<br>
+### 📊 GitHub activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=onigiriking&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-</details>
