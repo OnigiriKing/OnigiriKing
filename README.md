@@ -14,10 +14,10 @@ I'm a React developer based in Tokyo, Japan. 🇯🇵
 
 ### A few things I've built
 
-- 🗺️ **[I Wish You Could Read This](https://i-wish-you-could-read-it.netlify.app)**: A multilingual map for unsent messages.
-- ☁️ **[Kumo Market](https://kumo-market.netlify.app)**: An online shopping interface with a Redux cart.
-- 🛵 **[Moto Vibe](https://moto-vibe.netlify.app)**: A motorbike rental website inspired by Bangkok.
-- ⚡ **[Onigiri Crypto](https://onigiri-crypto.netlify.app)**: A crypto dashboard using the Bitfinex API.
+🗺️ **[I Wish You Could Read This](https://i-wish-you-could-read-it.netlify.app)**: A multilingual map for unsent messages.  
+☁️ **[Kumo Market](https://kumo-market.netlify.app)**: An online shopping interface with a Redux cart.  
+🛵 **[Moto Vibe](https://moto-vibe.netlify.app)**: A motorbike rental website inspired by Bangkok.  
+⚡ **[Onigiri Crypto](https://onigiri-crypto.netlify.app)**: A crypto dashboard using the Bitfinex API.  
 
 ### Find me
 
