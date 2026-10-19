@@ -4,7 +4,7 @@
 
 ### Hi, I'm Nikita!
 
-A React developer based in Tokyo, Japan. I enjoy building useful interfaces and multilingual web experiences.
+I'm a React developer based in Tokyo, Japan. 🇯🇵
 
 🏅 **ITPEC FE Certificate of Excellence** — Thailand, 2023.
 
